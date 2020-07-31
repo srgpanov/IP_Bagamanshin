@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IP_Bagamanshin</string>
+    <string name="btn_register">Register</string>
+    <string name="hint_et_email">Email</string>
+    <string name="hint_et_pass">Password</string>
+    <string name="hint_et_name">Name</string>
+    <string name="tv_register">No account yet? Create one</string>
+    <string name="btn_google">Google Login</string>
+    <string name="btn_facebook">Facebook Login</string>
+    <string name="tv_restore">Forgot password?</string>
+    <string name="btn_login">Sign In</string>
+    <string name="checkbox_remember">Remember me</string>
+    <string name="btn_restore">Restore Password</string>
+    <string name="splash_text" >test task</string>
+    <string name="exit_question">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error">Error</string>
+    <string name="connection_message">Please, check your internet connection status and restart app</string>
+</resources>
